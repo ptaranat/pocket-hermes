@@ -1,4 +1,4 @@
-# pocket-hermes
+![Pocket Hermes on a TrimUI Brick](docs/banner.png)
 
 A handheld voice client for [Hermes Agent](https://github.com/NousResearch/hermes-agent). Hold a button on a TrimUI Brick, talk, and watch your agent work.
 
@@ -93,7 +93,7 @@ Think of the relay token as access to your agent. Whatever tools your Hermes API
 
 ## Disclaimer
 
-pocket-hermes is an unofficial community project. It is not affiliated with or endorsed by Nous Research. Hermes, the Nous name and the Nous artwork used in the app icon belong to Nous Research.
+Pocket Hermes is an unofficial community project. It is not affiliated with or endorsed by Nous Research. Hermes, the Nous name and the Nous artwork used in the app icon belong to Nous Research.
 
 ## License
 
