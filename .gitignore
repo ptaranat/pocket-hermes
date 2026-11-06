@@ -1,0 +1,7 @@
+design/out/
+__pycache__/
+*.pyc
+.venv/
+build/
+desktop.config
+design/

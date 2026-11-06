@@ -1,0 +1,7 @@
+{
+    "label": "Hermes",
+    "icon": "icon.png",
+    "iconsel": "icon.png",
+    "launch": "launch.sh",
+    "description": "Talk to your Hermes agent."
+}

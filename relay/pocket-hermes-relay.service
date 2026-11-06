@@ -1,0 +1,15 @@
+[Unit]
+Description=Voice relay between pocket-hermes and Hermes Agent
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+EnvironmentFile=%h/.config/pocket-hermes/relay.env
+ExecStart=%h/.local/bin/uv run --script %h/pocket-hermes/relay/relay.py
+Restart=on-failure
+RestartSec=5
+MemoryMax=1G
+
+[Install]
+WantedBy=default.target
